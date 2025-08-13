@@ -1,0 +1,16 @@
+{
+    "dataStudio": {
+      "name": "Tooltip Ayuda",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Question_mark_white.svg/48px-Question_mark_white.svg.png",
+      "company": "Tu Nombre o Empresa",
+      "description": "Tooltip personalizado tipo ? para Looker Studio",
+      "packageUrl": "https://liceth1006.github.io/",
+  
+      "components": [
+        {
+          "id": "tooltip-component",
+          "entrypoint": "https://liceth1006.github.io/tooltip"
+        }
+      ]
+    }
+  }
